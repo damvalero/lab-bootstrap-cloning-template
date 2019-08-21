@@ -1,0 +1,12 @@
+.card-body { 
+    transition: opacity 0.25s ease-in-out;
+}
+
+.card-im-top{ 
+    transition: transform 0.25s ease-in-out;
+}
+
+.card:hover .card-body { 
+    opacity: 0.6; 
+}
+
